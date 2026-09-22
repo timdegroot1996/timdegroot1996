@@ -61,8 +61,3 @@ robotdashboard --outputpath output.xml
   [robotframeworkguides](https://github.com/MarketSquare/robotframeworkguides),
   [awesome-robotframework](https://github.com/fkromer/awesome-robotframework)
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=timdegroot1996&show_icons=true&include_all_commits=true&theme=default)
